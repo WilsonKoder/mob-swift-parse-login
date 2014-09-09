@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/WilsonKoder/Desktop/Swift/yourFeed/yourFeed/Bridging-Header.m \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/Parse.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFACL.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFAnalytics.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFAnonymousUtils.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFUser.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFConstants.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFObject.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFSubclassing.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFCloud.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFConfig.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFFile.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFGeoPoint.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFQuery.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFRelation.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFRole.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFImageView.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFInstallation.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFLogInViewController.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFLogInView.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFSignUpViewController.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFSignUpView.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFProduct.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFProductTableViewController.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFQueryTableViewController.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFTableViewCell.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFPurchase.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFPush.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PFTwitterUtils.h \
+  /Users/WilsonKoder/Downloads/parse-library-1.3.0/Parse.framework/Headers/PF_Twitter.h
