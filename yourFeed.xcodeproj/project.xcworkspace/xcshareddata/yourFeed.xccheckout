@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EC4CE78D-04DE-48C6-9155-6F370A44CB9B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>yourFeed</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B09EC3A05F930C6976867F2CCCF9EB009E43AE2B</key>
+		<string>https://github.com/WilsonKoder111/mob-swift-parse-login.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>yourFeed.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B09EC3A05F930C6976867F2CCCF9EB009E43AE2B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/WilsonKoder111/mob-swift-parse-login.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B09EC3A05F930C6976867F2CCCF9EB009E43AE2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B09EC3A05F930C6976867F2CCCF9EB009E43AE2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mob-swift-parse-login</string>
+		</dict>
+	</array>
+</dict>
+</plist>
