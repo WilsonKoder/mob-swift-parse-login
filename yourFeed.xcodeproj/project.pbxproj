@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		23BA9B8E19BF3FCD00F6F7F8 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23BA9B8D19BF3FCD00F6F7F8 /* Parse.framework */; };
 		FDABD3D119BEDABD00A550D0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDABD3D019BEDABD00A550D0 /* AppDelegate.swift */; };
 		FDABD3D319BEDABD00A550D0 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDABD3D219BEDABD00A550D0 /* FirstViewController.swift */; };
 		FDABD3D519BEDABD00A550D0 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDABD3D419BEDABD00A550D0 /* SecondViewController.swift */; };
@@ -30,7 +31,6 @@
 		FDABD40F19BEE07300A550D0 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDABD40E19BEE07300A550D0 /* StoreKit.framework */; };
 		FDABD41119BEE07A00A550D0 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDABD41019BEE07A00A550D0 /* SystemConfiguration.framework */; };
 		FDABD41419BEE10000A550D0 /* Bridging-Header.m in Sources */ = {isa = PBXBuildFile; fileRef = FDABD41319BEE10000A550D0 /* Bridging-Header.m */; };
-		FDABD44519BEF5C800A550D0 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FDABD44419BEF5C800A550D0 /* Parse.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		23BA9B8D19BF3FCD00F6F7F8 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Parse.framework; sourceTree = "<group>"; };
 		FDABD3CB19BEDABD00A550D0 /* yourFeed.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = yourFeed.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDABD3CF19BEDABD00A550D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FDABD3D019BEDABD00A550D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -72,7 +73,6 @@
 		FDABD41019BEE07A00A550D0 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		FDABD41219BEE0FF00A550D0 /* yourFeed-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "yourFeed-Bridging-Header.h"; sourceTree = "<group>"; };
 		FDABD41319BEE10000A550D0 /* Bridging-Header.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Bridging-Header.m"; sourceTree = "<group>"; };
-		FDABD44419BEF5C800A550D0 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Parse.framework; path = "../../../Downloads/parse-library-1.3.0/Parse.framework"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,13 +80,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FDABD44519BEF5C800A550D0 /* Parse.framework in Frameworks */,
 				FDABD41119BEE07A00A550D0 /* SystemConfiguration.framework in Frameworks */,
 				FDABD40F19BEE07300A550D0 /* StoreKit.framework in Frameworks */,
 				FDABD40D19BEE06D00A550D0 /* Security.framework in Frameworks */,
 				FDABD40B19BEE06600A550D0 /* QuartzCore.framework in Frameworks */,
 				FDABD40919BEE06000A550D0 /* MobileCoreServices.framework in Frameworks */,
 				FDABD40719BEE05800A550D0 /* libz.dylib in Frameworks */,
+				23BA9B8E19BF3FCD00F6F7F8 /* Parse.framework in Frameworks */,
 				FDABD40519BEE05300A550D0 /* CoreLocation.framework in Frameworks */,
 				FDABD40319BEE04B00A550D0 /* CoreGraphics.framework in Frameworks */,
 				FDABD40119BEE04600A550D0 /* CFNetwork.framework in Frameworks */,
@@ -172,7 +172,7 @@
 		FDABD3FD19BEE02B00A550D0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				FDABD44419BEF5C800A550D0 /* Parse.framework */,
+				23BA9B8D19BF3FCD00F6F7F8 /* Parse.framework */,
 				FDABD41019BEE07A00A550D0 /* SystemConfiguration.framework */,
 				FDABD40E19BEE07300A550D0 /* StoreKit.framework */,
 				FDABD40C19BEE06D00A550D0 /* Security.framework */,
@@ -496,6 +496,7 @@
 				FDABD3EB19BEDABD00A550D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FDABD3EC19BEDABD00A550D0 /* Build configuration list for PBXNativeTarget "yourFeedTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +505,7 @@
 				FDABD3EE19BEDABD00A550D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
